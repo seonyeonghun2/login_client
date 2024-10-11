@@ -1,0 +1,25 @@
+.title {
+    color: pink
+}
+.sub-title {
+    color: slateblue
+}
+h1, h2 {
+    text-align: center
+}
+input {
+    padding: 10px 20px;
+    margin: 10px 0
+}
+#login {
+    background-color: green;
+    color: white;
+    padding: 10px 80px
+}
+#login_form {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 50px 0;
+    width: 50%;
+    margin: 0 auto
+}
